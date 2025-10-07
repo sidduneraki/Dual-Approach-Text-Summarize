@@ -1,0 +1,9 @@
+
+For convenience, here is the content for the `requirements.txt` file:
+```
+transformers
+torch
+nltk
+scikit-learn
+numpy
+```
